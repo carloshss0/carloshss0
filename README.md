@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! | Olá Mundo! | ¡Hola, mundo!  </h1> 
 
-### Hello! My name is Carlos Silva. I'm Aspiring Software Engineer.
+### Hello! My name is Carlos Silva. I'm aspiring Software Engineer.
 
 <br>
 
