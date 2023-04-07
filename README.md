@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is Carlos Silva. I work as a Aspiring software engineer at Siemens.
+My name is Carlos Silva. I'm Aspiring software engineer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=carloshss0&repo=carloshss0&countColorcountColor)
 
